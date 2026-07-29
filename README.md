@@ -161,6 +161,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## 🤝 Author
 
-Built by **[OVI-WAN]** — Informatics student, interested in embedded systems and automotive software.
+Built by **[OVI-WAN]**
 
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/nicolae-ovidiu-hambasan-691954331/) · [GitHub](https://github.com/Ovi-Wan)
