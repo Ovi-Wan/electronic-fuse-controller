@@ -87,8 +87,6 @@ stateDiagram-v2
 
 Buttons are active-low (pull-up), so they trigger when pulled to GND.
 
-> 📸 **Add your own build photos here** — a picture of the wired breadboard/board and a short clip of the LED changing color per fault makes this section far more convincing than the table above.
-
 ---
 
 ## 🚀 Getting Started (Arduino)
